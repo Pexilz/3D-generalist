@@ -1,0 +1,12 @@
+Copyright © 2026 PEXILZ. All rights reserved.
+
+This software, including all accompanying files, documentation, and assets, is the proprietary intellectual property of the author. 
+
+All rights are reserved. You are granted a limited license to view and execute this software solely for personal, non-commercial use through the web interface provided. 
+
+You may not:
+1. Copy, modify, distribute, sell, or create derivative works based on the source code or assets of this software.
+2. Reverse engineer, decompile, or attempt to extract the source code from the compiled WebAssembly or JavaScript files.
+3. Use this software for any commercial purpose without prior express written permission from the copyright owner.
+
+Unauthorized reproduction or distribution of this software, or any portion of it, is strictly prohibited by law.
